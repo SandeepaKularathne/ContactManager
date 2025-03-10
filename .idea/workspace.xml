@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c34be86-f3b7-49f3-86fc-6f1754f35bd3" name="Changes" comment="create DTO Class">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/contactmanager/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contactmanager/FileHandler.java" afterDir="false" />
+    <list default="true" id="3c34be86-f3b7-49f3-86fc-6f1754f35bd3" name="Changes" comment="resources add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/contactmanager/ContactManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contactmanager/ContactManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/contactmanager/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contactmanager/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/contacts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/contacts.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741624733252</updated>
-      <workItem from="1741624734605" duration="4907000" />
+      <workItem from="1741624734605" duration="10290000" />
     </task>
     <task id="LOCAL-00001" summary="inzilization">
       <option name="closed" value="true" />
@@ -92,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741627385546</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="get all cmd test pass">
+      <option name="closed" value="true" />
+      <created>1741630111049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741630111049</updated>
+    </task>
+    <task id="LOCAL-00006" summary="resources add">
+      <option name="closed" value="true" />
+      <created>1741630556609</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741630556609</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +121,8 @@
     <MESSAGE value="create file architecture" />
     <MESSAGE value="add sample data" />
     <MESSAGE value="create DTO Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="create DTO Class" />
+    <MESSAGE value="get all cmd test pass" />
+    <MESSAGE value="resources add" />
+    <option name="LAST_COMMIT_MESSAGE" value="resources add" />
   </component>
 </project>

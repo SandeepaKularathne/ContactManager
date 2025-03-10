@@ -1,8 +1,9 @@
-kamal,0778488242,kaml@email.com
-nuwan,0777456123,nuwan@gmail.com
-nipuni,0112342349,nipuni@naifm.lk
-amal,0771234567,amal@example.com
-saman,0779876543,saman@gmail.com
-kavindi,0112233445,kavindi@company.lk
-pradeep,0714567890,pradeep@yahoo.com
-tharushi,0119988776,tharushi@office.com
+Kamal,0778488242,kaml@email.com
+Nuwan,0777456123,nuwan@gmail.com
+Nipuni,0112342349,nipuni@naifm.lk
+Amal,0771234567,amal@example.com
+Saman,0779876543,saman@gmail.com
+Kavindi,0112233445,kavindi@company.lk
+Pradeep,0714567890,pradeep@yahoo.com
+Tharushi,0119988776,tharushi@office.com
+Sandeepa,0773453451,sandeepa@earth.lk
