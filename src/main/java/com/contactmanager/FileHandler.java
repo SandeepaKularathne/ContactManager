@@ -5,7 +5,7 @@ import java.util.*;
 public class FileHandler {
 
     // Method to read contacts from the file and return a list of Contact objects
-    public static List<Contact> readContactsFromFile(String filePath) {
+    public static List<Contact> readContactsFromFile() {
         List<Contact> contacts = new ArrayList<>();
         BufferedReader reader = null;
 
